@@ -1,0 +1,11 @@
+Décrit l'achitecture de base d'un shader sur Unity :
+
+(suivi de tutos, il est préférable de lire la syntaxe d'un shader auparavant)
+ 
+
+http://docs.unity3d.com/Manual/ShadersOverview.html
+
+
+Shader Syntaxe:
+http://docs.unity3d.com/Manual/SL-Shader.html
+
